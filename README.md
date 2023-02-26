@@ -1,5 +1,5 @@
 # Dog Breed Recognition Project
-![](./app_image.png)
+![](./app.png)
 
 ## Description
 This project is a dog breed recognition system that can recognize 115 different dog breeds with an accuracy of 89% using the Inceptionv3 model trained on GPU. The project consists of a backend server built with Flask and a frontend user interface built with React and JavaScript.
