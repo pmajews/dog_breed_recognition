@@ -1,4 +1,3 @@
-# Dog Breed Recognition Project
 ![app](https://user-images.githubusercontent.com/83170837/229351563-1b4237b9-e33b-4e69-a4f8-719c83170d92.png)
 
 ## Description
