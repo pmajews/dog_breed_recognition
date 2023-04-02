@@ -63,8 +63,9 @@ Now let's move on with another model.
 ResNet101 was chosen for the dog breed recognition project because it has shown strong performance in image classification tasks and has a large capacity to handle complex and deep neural network architectures.
 #### Image Preprocessing and Image Augmentation
 When it comes to preprocessing and data augmentation for Resnet101 model, the only one thing that has changed is preprocess function.
+
 ##### Figure 8: Sample Augmented and Preprocessed Images (ResNet101)
-![](./doc_images/incv3_top2_categorical_accuracy.png)
+![](./doc_images/preprocessed_and_augmented_sample_images-Resnet.png)
 ##### Model Accuracy
 The accuracy of the Resnet model is 81% which is lower than InceptionV3 model. Additionally, the top 2 categorical accuracy of the model is 92% which is also lower than previous model.
 ##### Figure 9: Resnet101 Model Accuracy
