@@ -54,7 +54,7 @@ The above plot shows some example images from the dataset after applying Incepti
 #### Model Accuracy
 The accuracy of the model on the dog breed recognition task is 89%. Additionally, the top 2 categorical accuracy of the model is 96%, which means that the correct dog breed is included in the top 2 predicted breeds in 96% of the test images. This is a strong performance considering the large number of dog breeds in the dataset.
 ##### Figure 6: InceptionV3 Model Accuracy
-![](./doc_images/inceptionv3_performance.png)
+![](./doc_images/incv3_performance.png)
 ##### Figure 7: Top 2 categorical accuracy vs iterations (Tensorboard)
 ![](./doc_images/incv3_top2_categorical_accuracy.png)
 
